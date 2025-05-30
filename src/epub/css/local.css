@@ -51,3 +51,7 @@ footer{
 body [xml|lang]{
 	font-style: italic;
 }
+
+section[epub|type~="chapter"] > h2{
+        margin: 3em 0 1.5em 0
+}
