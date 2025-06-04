@@ -53,5 +53,5 @@ body [xml|lang]{
 }
 
 section[epub|type~="chapter"] > h2{
-        margin: 3em 0 1.5em 0
+	margin: 3em 0 1.5em 0;
 }
